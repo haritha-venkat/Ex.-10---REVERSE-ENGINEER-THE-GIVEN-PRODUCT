@@ -6,10 +6,9 @@
 To reverse engineering the product and prototyping the same in 3D printer.
 
 ## REQUIREMENTS:
-
- ●	CURA 4.0 Software
- ●	 Autodesk Fusion 360
- ●	 System - Windows 7 or higher, 1 GB RAM.
+ ### ●	CURA 4.0 Software
+ ### ●	 Autodesk Fusion 360
+ ### ●	 System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
  ### Step 1.:- Duplicate all the geometric features for the given object using vernier caliper, measuring tapes or any instruments provided
